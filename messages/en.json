@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "fullName": "Hello, My name is Youssef",
+    "welcome": "Welcome to my profile"
+  },
+  "Navbar": {
+    "Links": {
+      "Home": "Home",
+      "Contact": "Contact"
+    }
+  },
+  "SwitchLang": {
+    "locale": "{locale, select, en {english} fr {frensh} other {Unknown}}"
+  },
+  "Contact": {
+    "message": "Contact me please"
+  }
+}
